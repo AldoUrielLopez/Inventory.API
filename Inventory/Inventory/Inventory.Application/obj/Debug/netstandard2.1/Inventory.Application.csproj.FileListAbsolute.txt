@@ -1,0 +1,13 @@
+C:\Users\Aldo Lopez\source\repos\Inventory\Inventory\Inventory.Application\bin\Debug\netstandard2.1\Inventory.Application.deps.json
+C:\Users\Aldo Lopez\source\repos\Inventory\Inventory\Inventory.Application\bin\Debug\netstandard2.1\Inventory.Application.dll
+C:\Users\Aldo Lopez\source\repos\Inventory\Inventory\Inventory.Application\bin\Debug\netstandard2.1\Inventory.Application.pdb
+C:\Users\Aldo Lopez\source\repos\Inventory\Inventory\Inventory.Application\bin\Debug\netstandard2.1\Inventory.System.dll
+C:\Users\Aldo Lopez\source\repos\Inventory\Inventory\Inventory.Application\bin\Debug\netstandard2.1\Inventory.System.pdb
+C:\Users\Aldo Lopez\source\repos\Inventory\Inventory\Inventory.Application\obj\Debug\netstandard2.1\Inventory.Application.csproj.AssemblyReference.cache
+C:\Users\Aldo Lopez\source\repos\Inventory\Inventory\Inventory.Application\obj\Debug\netstandard2.1\Inventory.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aldo Lopez\source\repos\Inventory\Inventory\Inventory.Application\obj\Debug\netstandard2.1\Inventory.Application.AssemblyInfoInputs.cache
+C:\Users\Aldo Lopez\source\repos\Inventory\Inventory\Inventory.Application\obj\Debug\netstandard2.1\Inventory.Application.AssemblyInfo.cs
+C:\Users\Aldo Lopez\source\repos\Inventory\Inventory\Inventory.Application\obj\Debug\netstandard2.1\Inventory.Application.csproj.CoreCompileInputs.cache
+C:\Users\Aldo Lopez\source\repos\Inventory\Inventory\Inventory.Application\obj\Debug\netstandard2.1\Inventory.Application.csproj.CopyComplete
+C:\Users\Aldo Lopez\source\repos\Inventory\Inventory\Inventory.Application\obj\Debug\netstandard2.1\Inventory.Application.dll
+C:\Users\Aldo Lopez\source\repos\Inventory\Inventory\Inventory.Application\obj\Debug\netstandard2.1\Inventory.Application.pdb

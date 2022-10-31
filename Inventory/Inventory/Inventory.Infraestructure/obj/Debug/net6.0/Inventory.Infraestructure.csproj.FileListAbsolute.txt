@@ -1,0 +1,17 @@
+C:\Users\Aldo Lopez\source\repos\Inventory\Inventory\Inventory.Infraestructure\bin\Debug\net6.0\Inventory.Infraestructure.deps.json
+C:\Users\Aldo Lopez\source\repos\Inventory\Inventory\Inventory.Infraestructure\bin\Debug\net6.0\Inventory.Infraestructure.dll
+C:\Users\Aldo Lopez\source\repos\Inventory\Inventory\Inventory.Infraestructure\bin\Debug\net6.0\Inventory.Infraestructure.pdb
+C:\Users\Aldo Lopez\source\repos\Inventory\Inventory\Inventory.Infraestructure\bin\Debug\net6.0\Inventory.Application.dll
+C:\Users\Aldo Lopez\source\repos\Inventory\Inventory\Inventory.Infraestructure\bin\Debug\net6.0\Inventory.System.dll
+C:\Users\Aldo Lopez\source\repos\Inventory\Inventory\Inventory.Infraestructure\bin\Debug\net6.0\Inventory.Application.pdb
+C:\Users\Aldo Lopez\source\repos\Inventory\Inventory\Inventory.Infraestructure\bin\Debug\net6.0\Inventory.System.pdb
+C:\Users\Aldo Lopez\source\repos\Inventory\Inventory\Inventory.Infraestructure\obj\Debug\net6.0\Inventory.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\Aldo Lopez\source\repos\Inventory\Inventory\Inventory.Infraestructure\obj\Debug\net6.0\Inventory.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aldo Lopez\source\repos\Inventory\Inventory\Inventory.Infraestructure\obj\Debug\net6.0\Inventory.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\Aldo Lopez\source\repos\Inventory\Inventory\Inventory.Infraestructure\obj\Debug\net6.0\Inventory.Infraestructure.AssemblyInfo.cs
+C:\Users\Aldo Lopez\source\repos\Inventory\Inventory\Inventory.Infraestructure\obj\Debug\net6.0\Inventory.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\Aldo Lopez\source\repos\Inventory\Inventory\Inventory.Infraestructure\obj\Debug\net6.0\Inventory.Infraestructure.csproj.CopyComplete
+C:\Users\Aldo Lopez\source\repos\Inventory\Inventory\Inventory.Infraestructure\obj\Debug\net6.0\Inventory.Infraestructure.dll
+C:\Users\Aldo Lopez\source\repos\Inventory\Inventory\Inventory.Infraestructure\obj\Debug\net6.0\refint\Inventory.Infraestructure.dll
+C:\Users\Aldo Lopez\source\repos\Inventory\Inventory\Inventory.Infraestructure\obj\Debug\net6.0\Inventory.Infraestructure.pdb
+C:\Users\Aldo Lopez\source\repos\Inventory\Inventory\Inventory.Infraestructure\obj\Debug\net6.0\ref\Inventory.Infraestructure.dll

@@ -1,0 +1,10 @@
+C:\Users\Aldo Lopez\source\repos\Inventory\Inventory\Inventory.System\bin\Debug\netstandard2.1\Inventory.System.deps.json
+C:\Users\Aldo Lopez\source\repos\Inventory\Inventory\Inventory.System\bin\Debug\netstandard2.1\Inventory.System.dll
+C:\Users\Aldo Lopez\source\repos\Inventory\Inventory\Inventory.System\bin\Debug\netstandard2.1\Inventory.System.pdb
+C:\Users\Aldo Lopez\source\repos\Inventory\Inventory\Inventory.System\obj\Debug\netstandard2.1\Inventory.System.csproj.AssemblyReference.cache
+C:\Users\Aldo Lopez\source\repos\Inventory\Inventory\Inventory.System\obj\Debug\netstandard2.1\Inventory.System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aldo Lopez\source\repos\Inventory\Inventory\Inventory.System\obj\Debug\netstandard2.1\Inventory.System.AssemblyInfoInputs.cache
+C:\Users\Aldo Lopez\source\repos\Inventory\Inventory\Inventory.System\obj\Debug\netstandard2.1\Inventory.System.AssemblyInfo.cs
+C:\Users\Aldo Lopez\source\repos\Inventory\Inventory\Inventory.System\obj\Debug\netstandard2.1\Inventory.System.csproj.CoreCompileInputs.cache
+C:\Users\Aldo Lopez\source\repos\Inventory\Inventory\Inventory.System\obj\Debug\netstandard2.1\Inventory.System.dll
+C:\Users\Aldo Lopez\source\repos\Inventory\Inventory\Inventory.System\obj\Debug\netstandard2.1\Inventory.System.pdb

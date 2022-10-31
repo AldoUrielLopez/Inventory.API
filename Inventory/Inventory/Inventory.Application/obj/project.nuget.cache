@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "H+TKC7KhHCBqoyOT4GIIAC5jaoQXUaK739zahmUMleSCiErJ0n3WFAXK3fYthXW8hMJEsYCru1vWevBaiKDU5w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aldo Lopez\\source\\repos\\Inventory\\Inventory\\Inventory.Application\\Inventory.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aldo Lopez\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\Aldo Lopez\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\Aldo Lopez\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\Aldo Lopez\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
